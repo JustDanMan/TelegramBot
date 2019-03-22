@@ -1,6 +1,6 @@
 <?php
 //
-// Copyright (c) 2019 Daniel Vigano
+// Copyright (c) 2017 - 2019 Daniel Vigano
 // MIT-License (see LICENSE file)
 //
 
